@@ -2,7 +2,8 @@
 [Github](https://github.com/oxygen-dioxide/awesome-infinity) | 
 [Gitee](https://gitee.com/oxygendioxide/awesome-infinity) | 
 [Gitlab](https://gitlab.com/oxygen-dioxide/awesome-infinity/) | 
-[Bitbucket](https://bitbucket.org/oxygendioxide/awesome-infinity/src/main/)
+[Bitbucket](https://bitbucket.org/oxygendioxide/awesome-infinity/src/main/) | 
+[Coding](https://oxygen-dioxide.coding.net/public/1/awesome-infinity/git/files)
 
 [Infinity官方b站账号](https://space.bilibili.com/1579918535)
 
